@@ -1,0 +1,121 @@
+* {
+	color: #202926;
+	/*	text-shadow: CAN WE USE THIS TO OUTLINE LETTERS!?! */
+	font-family: 'Montserrat', sans-serif;
+	font-size: 24px;
+	letter-spacing: .5px;
+	box-sizing: border-box;
+	text-align: center;
+	
+}
+
+body {
+	background-image: url(../images/symphony/symphony.png);
+}
+
+h1 {
+	font-family: 'Monoton', cursive;
+	margin: 0px 70px;
+}
+
+h3 {
+	font-family: 'Monoton', cursive;
+}
+
+a.navbar-brand.text-center {
+	position: absolute;
+	left: 200px;
+	width: 200px;
+	height: 100px;
+	margin: 30px;
+	padding-top: 40px;
+}
+
+#gifSearchTitle {
+	color: #566eeb;
+	margin-bottom: 10px;
+}
+
+#mainheader {
+	background-color: #e244cf;
+}
+
+#searchedGif {
+	background-color: #566eeb;
+}
+
+#termBox {
+	height: 150px;
+}
+
+button {
+	margin: 10px;
+	color: #e244cf;
+	font-size: 14px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+
+#gifHeaderImg {
+	width: 150px;
+	height: 150px;
+	float: left;
+	margin: 10px 0px 10px 20px;
+}
+
+.navbar-brand	{
+	width: 150px;
+	background-color: #e244cf;
+	font-size: 24px;
+	float: left;
+}
+
+.navbar-nav {
+	clear: both;
+	overflow: auto;
+	background-color: #566eeb;
+}
+
+.navbar-right {
+	position: absolute;
+	bottom: 0px;
+	right: 12%;
+}
+		
+.navbar-default .navbar-nav>li>a {
+	background-color: #566eeb;
+	color: white;
+}
+
+.nav>li>a:hover {
+	background-color: #e244cf;
+	color: black;
+}
+
+.panel-heading {
+	padding: 0px 15px;
+}
+
+.panel {
+	padding: 20px;
+	margin-left: 0%;
+}
+
+.page-header {
+	color: #e244cf;
+}
+
+
+#gifSearchParm {
+	margin-bottom: 20px;
+}
+
+#stickyfooter2 {
+	background-color: #566eeb;
+	height: 50px;
+	font-size: 14px;
+}
+
+footer {
+	color: white;
+}
